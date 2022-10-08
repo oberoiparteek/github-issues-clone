@@ -1,24 +1,22 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
+import Issues from "./components/Issues";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+    <>
+      <header className="container mt-5">
+        <span>
+          <span className="h4">
+            facebook / <b>react</b>
+          </span>
+          <span className="badge badge-primary text-secondary border m-2">
+            Public
+          </span>
+        </span>
       </header>
-    </div>
+      <Issues/>
+    </>
   );
 }
 
