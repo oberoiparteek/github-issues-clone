@@ -16,7 +16,7 @@ function Issues() {
     <section className="container mt-2 border p-0 mb-5">
       <div>
         <div className="p-2">
-        <IssuesIcon /> 806 Open Issues
+        <IssuesIcon />  Open Issues
         </div>
         {dataList.map((issue, index) => {
           return <IssueItem key={index} issue={issue} />;
