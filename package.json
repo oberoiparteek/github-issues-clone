@@ -1,7 +1,7 @@
 {
   "name": "github-issues-clone",
   "version": "0.1.0",
-  "homepage": "https://oberoiparteek.github.io/my-app",
+  "homepage": "https://oberoiparteek.github.io/github-issues-clone",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
