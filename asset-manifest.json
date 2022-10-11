@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/github-issues-clone/static/css/main.c59cc657.css",
-    "main.js": "/github-issues-clone/static/js/main.523513ce.js",
+    "main.js": "/github-issues-clone/static/js/main.64727978.js",
     "static/js/787.6d1b034b.chunk.js": "/github-issues-clone/static/js/787.6d1b034b.chunk.js",
     "static/media/logo.svg": "/github-issues-clone/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/github-issues-clone/index.html",
@@ -9,11 +9,11 @@
     "static/media/OpenIssue.svg": "/github-issues-clone/static/media/OpenIssue.c7cee03fc378b1c03789df5db5fdb008.svg",
     "static/media/ClosedIssue.svg": "/github-issues-clone/static/media/ClosedIssue.33694149aa75194c49aff10dda2b5683.svg",
     "main.c59cc657.css.map": "/github-issues-clone/static/css/main.c59cc657.css.map",
-    "main.523513ce.js.map": "/github-issues-clone/static/js/main.523513ce.js.map",
+    "main.64727978.js.map": "/github-issues-clone/static/js/main.64727978.js.map",
     "787.6d1b034b.chunk.js.map": "/github-issues-clone/static/js/787.6d1b034b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c59cc657.css",
-    "static/js/main.523513ce.js"
+    "static/js/main.64727978.js"
   ]
 }
